@@ -3,5 +3,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wato787&column=6&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wato787&theme=light)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wato787)
 
